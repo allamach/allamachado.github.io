@@ -5,7 +5,7 @@ const SocialSidebar = () => {
   return (
     <div className="social-box">
       <a 
-        href="https://www.linkedin.com/in/etwatanabe" 
+        href="https://www.linkedin.com/in/allanmachado" 
         className="social-box__link" 
         target="_blank"
         rel="noreferrer"
@@ -14,7 +14,7 @@ const SocialSidebar = () => {
       </a>
       
       <a 
-        href="https://github.com/etwatanabe" 
+        href="https://github.com/allmach" 
         className="social-box__link" 
         target="_blank"
         rel="noreferrer"
@@ -23,7 +23,7 @@ const SocialSidebar = () => {
       </a>
       
       <a 
-        href="https://www.instagram.com/wtksh" 
+        href="https://www.instagram.com/allmacha" 
         className="social-box__link" 
         target="_blank"
         rel="noreferrer"

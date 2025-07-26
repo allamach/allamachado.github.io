@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
+import { About } from "./About";
 
 const Info = () => {
   const { t } = useTranslation();
@@ -31,3 +32,4 @@ const Info = () => {
 };
 
 export default Info;
+export default About;

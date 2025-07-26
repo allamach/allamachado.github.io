@@ -12,15 +12,15 @@ const Footer = () => {
         
         <div className="footer__social">
 
-          <a href="https://www.linkedin.com/in/etwatanabe" className="footer__social-link" target="_blank">
+          <a href="https://www.linkedin.com/in/allanmachado" className="footer__social-link" target="_blank">
             <i className="bx bxl-linkedin"></i>
           </a>
 
-          <a href="https://www.github.com/etwatanabe" className="footer__social-link" target="_blank">
+          <a href="https://www.github.com/allmach" className="footer__social-link" target="_blank">
             <i className="bx bxl-github"></i>
           </a>
           
-          <a href="https://www.instagram.com/wtksh" className="footer__social-link" target="_blank">
+          <a href="https://www.instagram.com/allmacha" className="footer__social-link" target="_blank">
             <i className="bx bxl-instagram"></i>
           </a>
         </div>

@@ -14,9 +14,10 @@ const Experience = () => {
 
       <div className="experience__container container">
           <div className="experience__content">
-            <ExperienceDataLeft title={t("experience.job3")} subtitle="CEPEDI" calendar="07/2024 - Present" />
-            <ExperienceDataRight title={t("experience.job2")} subtitle="CEPEDI" calendar="10/2022 - 05/2023" />
-            <ExperienceDataLeft title={t("experience.job1")} subtitle="Life Jr." calendar="03/2019 - 03/2020" />
+            <ExperienceDataLeft title={t("experience.job4")} subtitle="Mercado Livre Brazil" calendar="09/2024 - Present" />
+            <ExperienceDataRight title={t("experience.job3")} subtitle="Jaguar Land Rover" calendar="11/2022 - 04/2024" />
+            <ExperienceDataLeft title={t("experience.job2")} subtitle="Ford Motor Company" calendar="10/2011 - 08/2022" />
+            <ExperienceDataLeft title={t("experience.job1")} subtitle="Bridgestone Brazil" calendar="05/2009 - 10/2011" />
           </div>
         </div>
     </section>

@@ -13,16 +13,16 @@ const Portfolio = () => {
     const fetchGitHubProjects = async () => {
       try {
         const response = await fetch(
-          "https://api.github.com/users/etwatanabe/repos?sort=updated&per_page=15"
+          "https://api.github.com/users/allmach/repos?sort=updated&per_page=15"
         );
         const repos = await response.json();
 
         const filteredRepos = repos.filter(
           (repo) =>
             !repo.fork &&
-            repo.name !== "etwatanabe" &&
+            repo.name !== "allmach" &&
             repo.name !== "portfolio" &&
-            repo.name !== "etwatanabe.github.io"
+            repo.name !== "allanmachado.github.io"
           );
 
         setProjects(filteredRepos.slice(0, 8));

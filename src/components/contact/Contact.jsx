@@ -49,22 +49,22 @@ const Contact = () => {
 
           <div className="contact__info">
 
-            <a href="mailto:eduardotwatanabe@gmail.com" target="_blank" className="contact__card">
+            <a href="mailto:contact@allanmachado.com" target="_blank" className="contact__card">
               <i className="bx bx-mail-send contact__card-icon"></i>
 
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">eduardotwatanabe@gmail.com</span>
+              <span className="contact__card-data">contact@allanmachado.com</span>
 
               <div className="contact__arrow">
                 {t("contact.cards.send")}{" "}
                 <i className="bx bx-right-arrow-alt contact__arrow-icon"></i>
               </div>
             </a>
-            <a href="https://wa.me/+5573999713191" target="_blank" className="contact__card">
+            <a href="https://wa.me/+4407500244183" target="_blank" className="contact__card">
               <i className="bx bxl-whatsapp contact__card-icon"></i>
 
               <h3 className="contact__card-title">WhatsApp</h3>
-              <span className="contact__card-data">+55 (73) 99971-3191</span>
+              <span className="contact__card-data">+44 075 00244183</span>
 
               <div className="contact__arrow">
                 {t("contact.cards.send")}{" "}

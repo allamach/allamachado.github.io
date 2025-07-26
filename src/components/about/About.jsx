@@ -1,12 +1,12 @@
 import React from "react";
 import "./about.css";
-import Resume from "../../assets/RESUME_Eduardo_Watanabe.pdf";
-import Curriculo from "../../assets/CURRICULO_Eduardo_Watanabe.pdf";
+import Resume from "../../assets/2025 Resume - Allan Machado.pdf";
+import Curriculo from "../../assets/2025 Resume - Allan Machado.pdf";
 import filesSVG from "../../assets/files.svg";
 import Info from "./Info";
 import { useTranslation } from "react-i18next";
 
-const About = () => {
+export const About = () => {
   const { t, i18n } = useTranslation();
 
   const currentLanguage = i18n.language;
@@ -38,4 +38,4 @@ const About = () => {
   );
 };
 
-export default About;
+
