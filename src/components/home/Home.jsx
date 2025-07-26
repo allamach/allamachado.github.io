@@ -6,7 +6,7 @@ const Home = () => {
   useEffect(() => {
     const fetchGitHubProfile = async () => {
       try {
-        const response = await fetch("https://api.github.com/users/allmach");
+        const response = await fetch("https://api.github.com/users/allamach");
         const data = await response.json();        
         document.documentElement.style.setProperty('--profile-image-url', `url(${data.avatar_url})`);
       } catch (error) {

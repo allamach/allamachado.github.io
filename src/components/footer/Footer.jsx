@@ -16,7 +16,7 @@ const Footer = () => {
             <i className="bx bxl-linkedin"></i>
           </a>
 
-          <a href="https://www.github.com/allmach" className="footer__social-link" target="_blank">
+          <a href="https://www.github.com/allamach" className="footer__social-link" target="_blank">
             <i className="bx bxl-github"></i>
           </a>
           

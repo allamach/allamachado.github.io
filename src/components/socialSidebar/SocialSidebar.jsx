@@ -14,7 +14,7 @@ const SocialSidebar = () => {
       </a>
       
       <a 
-        href="https://github.com/allmach" 
+        href="https://github.com/allamach" 
         className="social-box__link" 
         target="_blank"
         rel="noreferrer"

@@ -4,7 +4,7 @@
 
 ## 📸 Demonstração
 
-➡️ [Acesse aqui o site](https://etwatanabe.github.io)
+➡️ [Acesse aqui o site](https://allamachado.github.io)
 
 ## 📖 Descrição
 
@@ -36,7 +36,7 @@ Este projeto foi criado com o objetivo de centralizar minhas informações profi
 Clone o projeto:
 
 ```bash
-git clone https://github.com/etwatanabe/etwatanabe.github.io.git
+git clone https://github.com/allamach/allamachado.github.io.git
 ```
 
 Instale as dependências:
@@ -67,8 +67,8 @@ npm run dev
 
 O projeto está publicado via **GitHub Pages** e pode ser acessado em:
 
-[https://etwatanabe.github.io](https://etwatanabe.github.io)
+[https://allamachado.github.io](https://allamachado.github.io)
 
 ## 👤 Autor
 
-Desenvolvido por [Eduardo Watanabe](https://linkedin.com/in/etwatanabe).
+Desenvolvido por [Allan Machado](https://linkedin.com/in/allanmachado).
